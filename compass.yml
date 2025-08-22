@@ -1,0 +1,14 @@
+name: Modules.PSOneTools
+id: ari:cloud:compass:eddcc978-84fc-448e-904c-0d4d7a6ccae6:component/dcebf165-b94d-4d6f-a806-e63f9a99f66a/b3b9a33d-02b2-4c67-8686-4d6d42a7aca7
+description: Home of PSOneTools, an open-source PowerShell module with tids and bits taken from articles published at https://powershell.one
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+  - synced-with-jsm
+customFields: null
